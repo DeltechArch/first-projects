@@ -1,1 +1,5 @@
 esta es una simple prueba para poner en practica lo aprendido espero y resulte 
+ lo primero que hice fue crear un repositorio en githu 
+ posterior mente clone el repositorio en mi area local 
+ cree un archivo.txt con el touch y agrege contenido con el echo >> 
+luego hice un git pull origin main y despues un git push origin main para ver los resultados en la pagina de github 
